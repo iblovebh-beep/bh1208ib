@@ -1,0 +1,7 @@
+{
+  "name": "바이탈핏 (VitalFit) - 스마트 건강관리 & 라이프케어",
+  "description": "걸음수, 소모 칼로리, 수면 분석 및 일일 맞춤 건강 목표 관리를 제공하는 올인원 웰니스 대시보드",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
